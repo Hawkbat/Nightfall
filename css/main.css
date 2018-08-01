@@ -22,6 +22,7 @@ body {
 	overflow: auto;
 	font-family: 'VT323', monospace;
 	user-select: none;
+	background: #222;
 	--size: 60px;
 	--xcnt: 15;
 	--ycnt: 10;
